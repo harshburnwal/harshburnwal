@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Harsh! Great to see you here!
-=====================================================================================================================================================
+Hi 👋 My name is Harsh! Great to see you here!
+==============================================
 
 👨‍💻 Hey there, I'm a passionate computer science undergrad from India, currently exploring the world of web development with a lot of excitement and energy 🚀. - Open Source🚩. I am always open to collaborating on projects and innovative/disruptive ideas. I believe in collaboration over competition🤝.
 
