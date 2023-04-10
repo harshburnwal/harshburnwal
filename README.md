@@ -1,4 +1,5 @@
-Hi 👋 My name is Harsh! Great to see you here!
+Hi there 👋
+I am Harsh! Great to see you here!
 ==============================================
 
 👨‍💻 Hey there, I'm a passionate computer science undergrad from India, currently exploring the world of web development with a lot of excitement and energy 🚀. - Open Source🚩. I am always open to collaborating on projects and innovative/disruptive ideas. I believe in collaboration over competition🤝.
