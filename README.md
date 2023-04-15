@@ -35,8 +35,10 @@ src="https://img.shields.io/twitter/follow/harsh_burnwal?logo=twitter&style=for-
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
+<details>
+<summary>
+    <img align="left" src="https://github.com/OPTIMUS-PRIME2001/OPTIMUS-PRIME2001/blob/faf611405777dc6dd4f1a57fdd0b5d272ce842ea/workflows/increase.svg" alt="OPTIMUS-PRIME2001stats" wifth="40" height="30">My GitHub Stats
+  </summary>  
 <a href="http://www.github.com/harshburnwal"><img src="https://github-readme-stats.vercel.app/api?username=harshburnwal&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=22272e&hide_border=true&show_icons=true" alt="harshburnwal's GitHub stats" /></a>
 
 <a href="http://www.github.com/harshburnwal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harshburnwal&stroke=ffffff&background=22272e&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
