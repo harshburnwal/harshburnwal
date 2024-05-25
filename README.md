@@ -2,7 +2,7 @@ Hi there 👋
 I am Harsh! Great to see you here!
 ==============================================
 
-👨‍💻 Hey there, I'm a passionate computer science undergrad from India, currently exploring the world of web development with a lot of excitement and energy 🚀. - Open Source🚩. I am always open to collaborating on projects and innovative/disruptive ideas. I believe in collaboration over competition🤝.
+👨‍💻 Hey there, I'm a passionate computer science graduate, currently exploring the world of web development with a lot of excitement and energy 🚀. - Open Source🚩. I am always open to collaborating on projects and innovative/disruptive ideas. I believe in collaboration over competition🤝.
 
 * 🌍  I'm based in Kolkata
 * 🧠  I'm learning JavaScript
