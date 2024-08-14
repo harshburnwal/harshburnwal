@@ -2,11 +2,10 @@ Hi there 👋
 I am Harsh! Great to see you here!
 ==============================================
 
-👨‍💻 Hey there, I'm a passionate computer science graduate, currently exploring the world of web development with a lot of excitement and energy 🚀. - Open Source🚩. I am always open to collaborating on projects and innovative/disruptive ideas. I believe in collaboration over competition🤝.
+👨‍💻 Hey there, I'm a passionate computer science graduate, currently exploring the world of web development with a lot of excitement and energy 🚀. I am always open to collaborating on projects and innovative/disruptive ideas. I believe in collaboration over competition🤝.
 
 * 🌍  I'm based in Kolkata
 * 🧠  I'm learning JavaScript
-* ⚡  Watching Anime while code
 
 <a href="https://www.twitter.com/harsh_burnwal" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/harsh_burnwal?logo=twitter&style=for-the-badge&color=22c55e&labelColor=22272e"
