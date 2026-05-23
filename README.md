@@ -43,17 +43,3 @@ Right now I am getting sharper on SQL, statistics, and Python for data science. 
 <a href="https://www.x.com/oyeatomic" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/oyeatomic" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
 </p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=oyeatomic&show_icons=true&hide=&count_private=true&title_color=6B8C6E&text_color=ffffff&icon_color=6B8C6E&bg_color=0D1410&hide_border=true&show_icons=true" alt="oyeatomic GitHub stats" />
-</p>
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oyeatomic&stroke=ffffff&background=0D1410&ring=6B8C6E&fire=6B8C6E&currStreakNum=ffffff&currStreakLabel=6B8C6E&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyeatomic&langs_count=8&title_color=6B8C6E&text_color=ffffff&icon_color=6B8C6E&bg_color=0D1410&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</p>
