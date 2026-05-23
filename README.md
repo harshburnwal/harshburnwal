@@ -6,8 +6,8 @@ I am Harsh! Great to see you here!
 
 * 🧠  I'm learning JavaScript
 
-<a href="https://www.twitter.com/harsh_burnwal" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/harsh_burnwal?logo=twitter&style=for-the-badge&color=22c55e&labelColor=22272e"
+<a href="https://www.x.com/oyeatomic" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/oyeatomic?logo=twitter&style=for-the-badge&color=22c55e&labelColor=22272e"
 /></a>
 
 ### Skills
